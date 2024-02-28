@@ -1,5 +1,5 @@
 # 🐬 Cheat Sheet para MySQL 🐬
 
-# Create:
+## Create:
 
-# Read:
+## Read:
