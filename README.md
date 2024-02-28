@@ -1,5 +1,16 @@
 # 🐬 Cheat Sheet para MySQL 🐬
 
-## Create:
+# Create:
 
-## Read:
+# Read:
+### Mostrar bancos de dados:
+
+``` 
+  SHOW DATABASES;
+```
+
+# Update:
+
+# Delete:
+
+# Others:
